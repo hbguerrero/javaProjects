@@ -22,7 +22,4 @@ public class CheckingAccount{
   public double getMonthlyInterest(){
     return this.interestRate * this.balance;
   }
-
-public static void main(String[] args){   
-  }
 }
